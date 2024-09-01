@@ -7,3 +7,8 @@ A small library to get information about the command line arguments sent to your
 
 # How to use
 See the [wiki](https://github.com/Grisgram/gml-commandline/wiki).
+
+If you find this library useful, please ⭐ the repository, it helps greatly in increasing the reach and is a fine way to show appreciation to open source authors!
+
+Thank you very much\
+_Grisgram_
