@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/d27ebe5b-20e1-4d77-988a-2f11b13c9130" style="display:block; margin:auto; width:438px"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/d27ebe5b-20e1-4d77-988a-2f11b13c9130" style="display:block; margin:auto;"></p>
 
 # gml-commandline
 GameMaker CommandLine Argument Analysis
