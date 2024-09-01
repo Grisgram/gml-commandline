@@ -1,0 +1,2 @@
+
+	Just add the "Included Files" and the "CommandLineArgs" folders to a local package. That's it.
