@@ -33,4 +33,4 @@
 
 #macro ARGS						global.__ARGS
 ARGS = new CommandlineArgs();
-#macro ENSURE_ARGS				if (!variable_global_exists("__ARGS")) ARGS = new CommandlineArgs();
+#macro ENSURE_ARGS				if (!variable_global_exists("__ARGS")) ARGS = new CommandlineArgs()
