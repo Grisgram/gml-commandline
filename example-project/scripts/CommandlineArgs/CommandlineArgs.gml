@@ -136,7 +136,7 @@ function CommandlineArgs() constructor {
 		
 		var cmd = __find_command(i, a);
 		if (cmd != undefined)	array_push(commands, cmd) else
-		if (__is_option(a))		array_push(options,  new __commandline_option(i, __sh.string_substring(a, 3))); else
+		if (__is_option(a))		array_push(options,  new __commandline_option(i, a)); else
 		if (__is_switch(a))		array_push(switches, new __commandline_switch(i, a));
 	}
 

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_in_global_script_demo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_in_global_script_demo",
+  "parent":{
+    "name":"example-project",
+    "path":"example-project.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

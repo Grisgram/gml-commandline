@@ -1,0 +1,42 @@
+{
+  "$GMProject":"",
+  "%Name":"gml-commandline",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"CommandLineArgs","folderPath":"folders/CommandLineArgs.yy","name":"CommandLineArgs","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"commandline_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"commandline_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.8.1.171",
+  },
+  "name":"gml-commandline",
+  "resources":[
+    {"id":{"name":"__HOW TO PACKAGE__","path":"notes/__HOW TO PACKAGE__/__HOW TO PACKAGE__.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"_GML_COMMANDLINE_VERSION_","path":"scripts/_GML_COMMANDLINE_VERSION_/_GML_COMMANDLINE_VERSION_.yy",},},
+    {"id":{"name":"CommandLine_Configuration","path":"scripts/CommandLine_Configuration/CommandLine_Configuration.yy",},},
+    {"id":{"name":"CommandlineArgs","path":"scripts/CommandlineArgs/CommandlineArgs.yy",},},
+    {"id":{"name":"runner","path":"scripts/runner/runner.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

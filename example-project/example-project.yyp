@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"gml-commandline",
+  "%Name":"example-project",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -15,25 +15,26 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"commandline_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"commandline_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"commandline_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"commandline_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.8.1.171",
   },
-  "name":"gml-commandline",
+  "name":"example-project",
   "resources":[
-    {"id":{"name":"__HOW TO PACKAGE__","path":"notes/__HOW TO PACKAGE__/__HOW TO PACKAGE__.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"CreateEventDemoObject","path":"objects/CreateEventDemoObject/CreateEventDemoObject.yy",},},
+    {"id":{"name":"rmDemo","path":"rooms/rmDemo/rmDemo.yy",},},
     {"id":{"name":"_GML_COMMANDLINE_VERSION_","path":"scripts/_GML_COMMANDLINE_VERSION_/_GML_COMMANDLINE_VERSION_.yy",},},
     {"id":{"name":"CommandLine_Configuration","path":"scripts/CommandLine_Configuration/CommandLine_Configuration.yy",},},
     {"id":{"name":"CommandlineArgs","path":"scripts/CommandlineArgs/CommandlineArgs.yy",},},
-    {"id":{"name":"runner","path":"scripts/runner/runner.yy",},},
+    {"id":{"name":"init_in_global_script_demo","path":"scripts/init_in_global_script_demo/init_in_global_script_demo.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmDemo","path":"rooms/rmDemo/rmDemo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

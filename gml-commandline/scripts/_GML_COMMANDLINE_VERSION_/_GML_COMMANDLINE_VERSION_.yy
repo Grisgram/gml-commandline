@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"_GML_COMMANDLINE_VERSION_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"_GML_COMMANDLINE_VERSION_",
+  "parent":{
+    "name":"CommandLineArgs",
+    "path":"folders/CommandLineArgs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
